@@ -532,10 +532,10 @@ footer {
   }
 
   /* container */
-  /* con01 */
+  /* 모바일 con01 */
 
   .con01 .swiper {
-    padding: 75px 24px;
+    padding: 40px 24px 75px;
   }
 
   .con01 ul li h3 {
@@ -705,10 +705,10 @@ footer {
     align-items: center;
   }
 
-  /* footer */
+  /* 모바일 footer */
   .footer-wrap {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     gap: 30px;
   }
 
